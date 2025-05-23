@@ -55,7 +55,7 @@ TOPOLOGI
 
   ![image](https://github.com/user-attachments/assets/8ba9b28a-d48d-45f3-8524-39e467239f66)
 
-3. Smart Home IoT
+3. Smart Home Wireless
 
    Simulasi sistem IoT, terdapat koneksi nirkabel yang menghubungkan berbagai perangkat seperti sensor gerak, smartphone, dan perangkat output (pintu, lampu, garasi). Dalam sistem ini, ada komunikasi data yang dilakukan secara nirkabel      (wireless), memberikan fleksibilitas dan kemampuan untuk mengontrol perangkat dari mana saja melalui aplikasi atau perangkat lain yang terhubung ke jaringan.
 

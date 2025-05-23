@@ -1,4 +1,9 @@
 # Simulasi-IoT Cisco Packet Tracert Kelompok 4
+
+Muhammad Lukmanul Khakim 2208096068
+
+SK 6C
+
 Selamat datang di repositori Simulasi IoT Smart Home! Proyek ini adalah simulasi sistem Smart Home berbasis IoT (Internet of Things) menggunakan Cisco Packet Tracer. Dalam simulasi ini, berbagai perangkat di seperti SBC-PT, lampu, pintu garasi, pintu, dan Montiom Sensor dapat diatur dan dikendalikan melalui sebuah aplikasi berbasis web yang terhubung ke jaringan rumah.
 Tujuan utama projek ini adalah untuk mempelajari bagaimana perangkat IoT berkomunikasi dalam jaringan lokal, serta bagaimana kita dapat mengontrol dan memonitor perangkat-perangkat tersebut secara otomatis menggunakan teknologi jaringan.
 
